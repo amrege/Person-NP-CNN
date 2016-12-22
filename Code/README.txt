@@ -1,0 +1,1 @@
+SVM: Baseline project folderCNN.py: CNN application in TensorFlowHistogram Equalization: converting images for discussion

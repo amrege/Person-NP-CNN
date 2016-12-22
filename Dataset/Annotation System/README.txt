@@ -1,0 +1,1 @@
+Step 1: Use Prep-data to make the videos into imagesStep 2: python parse_labels.py to make json with proper labels Step 3: Use  bboxes.py to create 20 frames of the same ID to labelStep 4: Label images as person or not person and export to personnotperson.csvStep 5: Use cleanboxes.py to get all images for each id that are person and use the rest of the ids as not images.  
